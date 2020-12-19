@@ -1,4 +1,5 @@
 # An example of a dashboard built by Dash from Plotly for this fish dataset.
+the data set can be found here : https://www.kaggle.com/likhitsudha/fishweights 
 ### Demo of the Dash app
 ![Alt Text](https://github.com/kimakour/dashboard_dash_plotly/blob/main/images/dash_demo.gif)
 

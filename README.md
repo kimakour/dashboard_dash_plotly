@@ -1,4 +1,4 @@
-# An example of a dashboard built by Dash from Plotly for the fish dataset.
+# An example of a dashboard built by Dash from Plotly for this fish dataset.
 It is divided into three parts :
 ### Basic visualizations for the features
 - Histogram plot

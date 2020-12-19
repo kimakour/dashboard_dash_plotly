@@ -32,4 +32,4 @@ Looking at the parameters is enough.
 For the sake of demonstration, we will use in this part a Gradient boosted trees and we will explain it with a Tree explainer from SHAP.
 For more info about SHAP values look at : https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf 
 
-Please feel free to contact to enhance the design or add/modify the functions that were implemented in this app.
+Please feel free to contact me to enhance the design or add/modify the functions that were implemented in this app.
